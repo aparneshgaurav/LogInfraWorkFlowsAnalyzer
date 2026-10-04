@@ -400,8 +400,8 @@ The full end-to-end (DeepSeek + Trainium) requires running the steps in Section 
 | **Phase 2** — Train & deploy | ✅ **Complete** | `mini_deepseek_model.py` trained · uploaded to HuggingFace · live Space |
 | **Phase 3** — Pitch | 🟡 **Ready** | Live demo URL · model URL · RunPod guide documented |
 
-**Live demo:** https://huggingface.co/spaces/ShivanshiNigam/loglens-demo
+**Live demo:** https://huggingface.co/spaces/aparneshgaurav/loglens-demo
 
 ---
 
-*Built by the engineering team.*
+
